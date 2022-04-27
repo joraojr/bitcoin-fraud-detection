@@ -1,1 +1,1 @@
-# bitcoin-fraud-detection
+# Bitcoin Fraud Detection
