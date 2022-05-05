@@ -1,5 +1,5 @@
-matplotlib
+pandas
 numpy
-panda
-parso
+matplotlib
+seaborn
 sklearn
